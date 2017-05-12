@@ -1,0 +1,2 @@
+用于进行 android HttpsURLConnection 的测试
+used to test the usage of HttpsURLConnection in android
